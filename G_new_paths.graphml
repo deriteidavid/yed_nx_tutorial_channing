@@ -1,0 +1,1429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="db" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="COL11A1">
+  <data key="d0">COL11A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="GREM1">
+  <data key="d0">GREM1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="ZBTB21">
+  <data key="d0">ZBTB21</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="MPP1">
+  <data key="d0">MPP1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="NCOR2">
+  <data key="d0">NCOR2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="BMP2">
+  <data key="d0">BMP2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TMED2">
+  <data key="d0">TMED2</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="COL5A2">
+  <data key="d0">COL5A2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="S100A13">
+  <data key="d0">S100A13</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="MFAP4">
+  <data key="d0">MFAP4</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="IREB2">
+  <data key="d0">IREB2</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="ZHX1">
+  <data key="d0">ZHX1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TFAP4">
+  <data key="d0">TFAP4</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TMED7">
+  <data key="d0">TMED7</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="FBXO38">
+  <data key="d0">FBXO38</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="LTBP3">
+  <data key="d0">LTBP3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL3A1">
+  <data key="d0">COL3A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="NOTCH2">
+  <data key="d0">NOTCH2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CREBBP">
+  <data key="d0">CREBBP</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="S100B">
+  <data key="d0">S100B</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CALM1">
+  <data key="d0">CALM1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="COL5A1">
+  <data key="d0">COL5A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="S100A12">
+  <data key="d0">S100A12</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="DCN">
+  <data key="d0">DCN</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="UGGT1">
+  <data key="d0">UGGT1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="CCNF">
+  <data key="d0">CCNF</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL4A5">
+  <data key="d0">COL4A5</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="S100A4">
+  <data key="d0">S100A4</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="MMP9">
+  <data key="d0">MMP9</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="PCGF1">
+  <data key="d0">PCGF1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="ACAN">
+  <data key="d0">ACAN</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CHD8">
+  <data key="d0">CHD8</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="THBS1">
+  <data key="d0">THBS1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="COL16A1">
+  <data key="d0">COL16A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TP53">
+  <data key="d0">TP53</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="TGFB2">
+  <data key="d0">TGFB2</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="COL2A1">
+  <data key="d0">COL2A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="POLK">
+  <data key="d0">POLK</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="NFRKB">
+  <data key="d0">NFRKB</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="MAML1">
+  <data key="d0">MAML1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="STYX">
+  <data key="d0">STYX</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="DSP">
+  <data key="d0">DSP</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="ENG">
+  <data key="d0">ENG</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="S100P">
+  <data key="d0">S100P</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CAMKK2">
+  <data key="d0">CAMKK2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="FAM13A">
+  <data key="d0">FAM13A</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="RPLP0">
+  <data key="d0">RPLP0</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="NCOA6">
+  <data key="d0">NCOA6</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="INS">
+  <data key="d0">INS</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CAMKMT">
+  <data key="d0">CAMKMT</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TAF4">
+  <data key="d0">TAF4</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="GORASP2">
+  <data key="d0">GORASP2</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="MAP4">
+  <data key="d0">MAP4</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="RRBP1">
+  <data key="d0">RRBP1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="MMP1">
+  <data key="d0">MMP1</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="FGFR1">
+  <data key="d0">FGFR1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="QSER1">
+  <data key="d0">QSER1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="CAVIN1">
+  <data key="d0">CAVIN1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="TFPI">
+  <data key="d0">TFPI</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="GPATCH8">
+  <data key="d0">GPATCH8</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="SFTPD">
+  <data key="d0">SFTPD</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="COL7A1">
+  <data key="d0">COL7A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="EIF2S2">
+  <data key="d0">EIF2S2</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="OTUD3">
+  <data key="d0">OTUD3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="OTUD5">
+  <data key="d0">OTUD5</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="AGER">
+  <data key="d0">AGER</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="ELN">
+  <data key="d0">ELN</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="FBLN5">
+  <data key="d0">FBLN5</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="VHL">
+  <data key="d0">VHL</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL1A2">
+  <data key="d0">COL1A2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="TET2">
+  <data key="d0">TET2</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="TMED10">
+  <data key="d0">TMED10</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="CFAP97">
+  <data key="d0">CFAP97</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="FLT3">
+  <data key="d0">FLT3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="NPNT">
+  <data key="d0">NPNT</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="HHIP">
+  <data key="d0">HHIP</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="MFAP2">
+  <data key="d0">MFAP2</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="S100A1">
+  <data key="d0">S100A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL12A1">
+  <data key="d0">COL12A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL6A3">
+  <data key="d0">COL6A3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="LIN28A">
+  <data key="d0">LIN28A</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="ASPH">
+  <data key="d0">ASPH</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="COL4A1">
+  <data key="d0">COL4A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="BGN">
+  <data key="d0">BGN</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="FBN1">
+  <data key="d0">FBN1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="HMGN1">
+  <data key="d0">HMGN1</data>
+  <data key="d1">new_interactor</data>
+</node>
+<node id="COL4A3">
+  <data key="d0">COL4A3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL4A2">
+  <data key="d0">COL4A2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="PZP">
+  <data key="d0">PZP</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="MMP12">
+  <data key="d0">MMP12</data>
+  <data key="d1">gwas</data>
+</node>
+<node id="TAF5L">
+  <data key="d0">TAF5L</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="VASN">
+  <data key="d0">VASN</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="YEATS2">
+  <data key="d0">YEATS2</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="SHANK3">
+  <data key="d0">SHANK3</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="EMILIN1">
+  <data key="d0">EMILIN1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="EFEMP1">
+  <data key="d0">EFEMP1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="NID1">
+  <data key="d0">NID1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="RPGRIP1L">
+  <data key="d0">RPGRIP1L</data>
+  <data key="d1">hubris_node</data>
+</node>
+<node id="COL1A1">
+  <data key="d0">COL1A1</data>
+  <data key="d1">hubris_node</data>
+</node>
+<edge source="COL11A1" target="COL2A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL11A1" target="THBS1">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="COL11A1" target="MMP1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="MMP9">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="COL5A1">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="COL16A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL11A1" target="COL5A2">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL11A1" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="GREM1" target="BMP2">
+  <data key="d2">{'HIPPIE', 'NCBI'}</data>
+</edge>
+<edge source="GREM1" target="HHIP"/>
+<edge source="ZBTB21" target="TP53">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="ZBTB21" target="NOTCH2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="ZBTB21" target="S100B">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="ZBTB21" target="FBXO38">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="MPP1" target="TP53">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="MPP1" target="FAM13A">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="NCOR2" target="TP53">
+  <data key="d2">{'StringDB', 'HIPPIE'}</data>
+</edge>
+<edge source="NCOR2" target="CREBBP">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="NCOR2" target="NCOA6">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="NCOR2" target="FBXO38">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="BMP2" target="VHL">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="BMP2" target="ENG">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="BMP2" target="COL2A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="BMP2" target="TGFB2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="BMP2" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="TMED2" target="VHL">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED2" target="CCNF">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="TMED2" target="NOTCH2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="TMED2" target="GORASP2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED2" target="TMED10">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="TMED2" target="TMED7">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED2" target="HHIP"/>
+<edge source="COL5A2" target="MMP1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="MMP9">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="COL5A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL5A2" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="COL4A5">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A2" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="S100A13" target="TP53">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="S100A13" target="AGER">
+  <data key="d2">{'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="MFAP4" target="TP53">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="MFAP4" target="FBLN5">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MFAP4" target="EFEMP1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MFAP4" target="SFTPD">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="MFAP4" target="THBS1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="MFAP4" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE', 'Reactome'}</data>
+</edge>
+<edge source="MFAP4" target="EMILIN1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MFAP4" target="MFAP2">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MFAP4" target="ELN">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="IREB2" target="LIN28A">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="IREB2" target="VHL">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="IREB2" target="CCNF">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="IREB2" target="CAMKK2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="IREB2" target="NCOA6">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="IREB2" target="OTUD3">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="IREB2" target="CAMKMT">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="ZHX1" target="TP53">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="ZHX1" target="CREBBP">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="ZHX1" target="FBXO38">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="TFAP4" target="TP53">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TFAP4" target="FBXO38">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="TFAP4" target="YEATS2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED7" target="TMED10">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED7" target="GORASP2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TMED7" target="HHIP"/>
+<edge source="FBXO38" target="STYX">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="FBXO38" target="CREBBP">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="FBXO38" target="GPATCH8">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="TAF5L">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="RPGRIP1L">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="QSER1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="PCGF1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="CHD8">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="OTUD5">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="NFRKB">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="YEATS2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="MAML1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="TAF4">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBXO38" target="POLK">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="LTBP3" target="TGFB2">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="LTBP3" target="EFEMP1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="LTBP3" target="SHANK3">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="LTBP3" target="GORASP2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="COL3A1" target="BGN">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="DCN">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="THBS1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="MMP1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="MMP9">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="COL1A2">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="COL3A1" target="COL16A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL3A1" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="NOTCH2" target="VASN">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="NOTCH2" target="CCNF">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="NOTCH2" target="MAML1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="NOTCH2" target="TAF5L">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="NOTCH2" target="ASPH">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="NOTCH2" target="NPNT">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="NOTCH2" target="SHANK3">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CREBBP" target="TP53">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="CREBBP" target="FGFR1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="CREBBP" target="NCOA6">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="CREBBP" target="MAML1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="S100A4">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HURI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="TP53">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="CALM1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="FGFR1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="S100P">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HURI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="S100A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HURI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100B" target="AGER">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="CALM1" target="CCNF">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CALM1" target="HMGN1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CALM1" target="CAMKK2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="CALM1" target="MAML1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="CALM1" target="CAMKMT">
+  <data key="d2">{'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="CALM1" target="QSER1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CALM1" target="HHIP"/>
+<edge source="COL5A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL5A1" target="DCN">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="COL5A1" target="COL2A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="THBS1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="MMP1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="MMP9">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="COL6A3">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL5A1" target="COL4A5">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL5A1" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL5A1" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="S100A12" target="TP53">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="S100A12" target="AGER">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL1A1">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="INS">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL1A2">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL4A5">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL6A3">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="DCN" target="COL2A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="SFTPD">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="DCN" target="ELN">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="DCN" target="TGFB2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="DCN" target="FBN1">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL4A3">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="COL4A1">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="DCN" target="THBS1">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="UGGT1" target="COL1A1">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="UGGT1" target="EIF2S2">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="UGGT1" target="EFEMP1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="UGGT1" target="HHIP"/>
+<edge source="CCNF" target="TP53">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="RPLP0">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="DSP">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="RRBP1">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="YEATS2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="CHD8">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CCNF" target="TAF5L">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="CCNF" target="MAP4">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="COL4A5" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A5" target="VHL">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="COL4A5" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A5" target="MMP9">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL4A5" target="COL4A3">
+  <data key="d2">{'HIPPIE', 'Interactome3D', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="COL4A5" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A5" target="COL16A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A5" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A5" target="NID1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="S100A4" target="TP53">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100A4" target="S100P">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="S100A4" target="AGER">
+  <data key="d2">{'StringDB', 'Interactome3D', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="S100A4" target="S100A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HURI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL1A1">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="MMP9" target="COL2A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="THBS1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="MMP1">
+  <data key="d2">{'NCBI', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MMP9" target="NID1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MMP9" target="ACAN">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MMP9" target="COL12A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL6A3">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL4A2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL7A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL4A3">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="MMP9" target="COL1A2">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="MMP9" target="COL4A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="COL16A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="ELN">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MMP9" target="PZP">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="MMP9" target="TFPI">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="MMP9" target="HHIP"/>
+<edge source="PCGF1" target="TP53">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid'}</data>
+</edge>
+<edge source="PCGF1" target="GPATCH8">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="PCGF1" target="QSER1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="ACAN" target="MMP1">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="ACAN" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="CHD8" target="INS">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="CHD8" target="TP53">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="CHD8" target="FBLN5">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="THBS1" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="BGN">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="THBS1" target="COL2A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="COL4A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="TFPI">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="COL7A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="THBS1" target="HHIP"/>
+<edge source="COL16A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="COL2A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="COL7A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL16A1" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="VHL">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="EIF2S2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TP53" target="RPLP0">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="DSP">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="GPATCH8">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="S100A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="TP53" target="OTUD5">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TP53" target="TAF5L">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="S100P">
+  <data key="d2">{'StringDB', 'Interactome3D', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="POLK">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="MAML1">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="NCOA6">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="TP53" target="TET2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="RPGRIP1L">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="SHANK3">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="ASPH">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="MAP4">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="OTUD3">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="NFRKB">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="TAF4">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="YEATS2">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="TP53" target="HHIP"/>
+<edge source="TGFB2" target="BGN">
+  <data key="d2">{'StringDB', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="TGFB2" target="VASN">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TGFB2" target="ENG">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="TGFB2" target="EFEMP1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="TGFB2" target="FBN1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="TGFB2" target="PZP">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL2A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL2A1" target="BGN">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL2A1" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL2A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL2A1" target="MMP1">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL2A1" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="NFRKB" target="EMILIN1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="STYX" target="RRBP1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="DSP" target="RRBP1">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="DSP" target="MAP4">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="ENG" target="HMGN1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="ENG" target="EFEMP1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="S100P" target="AGER">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="S100P" target="S100A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HURI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="FAM13A" target="SHANK3">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="FAM13A" target="CFAP97">
+  <data key="d2">{'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="RPLP0" target="LIN28A">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="RPLP0" target="VHL">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="RPLP0" target="VASN">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="RPLP0" target="HHIP"/>
+<edge source="INS" target="EIF2S2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="INS" target="NPNT">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="CAMKMT" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="CAMKMT" target="COL1A2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="GORASP2" target="TMED10">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="GORASP2" target="FGFR1">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="GORASP2" target="HHIP"/>
+<edge source="MAP4" target="HHIP"/>
+<edge source="RRBP1" target="EMILIN1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="RRBP1" target="CFAP97">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="RRBP1" target="HHIP"/>
+<edge source="MMP1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL7A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="NID1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MMP1" target="COL6A3">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="COL4A3">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP1" target="TFPI">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="FGFR1" target="EIF2S2">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="FGFR1" target="AGER">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="CAVIN1" target="TMED10">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="CAVIN1" target="CFAP97">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="CAVIN1" target="ASPH">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="CAVIN1" target="HHIP"/>
+<edge source="TFPI" target="MMP12">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="COL7A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL7A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL7A1" target="COL1A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL7A1" target="COL4A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL7A1" target="COL12A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="EIF2S2" target="FLT3">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="EIF2S2" target="HHIP"/>
+<edge source="AGER" target="S100A1">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE', 'Interactome3D', 'HumanNet'}</data>
+</edge>
+<edge source="ELN" target="BGN">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="ELN" target="FBLN5">
+  <data key="d2">{'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="ELN" target="MMP12">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="ELN" target="FBN1">
+  <data key="d2">{'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="ELN" target="EMILIN1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="ELN" target="MFAP2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="FBLN5" target="ASPH">
+  <data key="d2">{'NCBI', 'HIPPIE', 'HumanNet', 'BioGrid'}</data>
+</edge>
+<edge source="FBLN5" target="FBN1">
+  <data key="d2">{'StringDB', 'HIPPIE', 'Interactome3D', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="FBLN5" target="MFAP2">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="VHL" target="TMED10">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="VHL" target="COL4A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="VHL" target="COL4A2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="VHL" target="COL4A3">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="VHL" target="FLT3">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid'}</data>
+</edge>
+<edge source="VHL" target="TET2">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="COL1A2" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="COL1A2" target="BGN">
+  <data key="d2">{'NCBI', 'StringDB', 'HumanNet', 'HIPPIE'}</data>
+</edge>
+<edge source="COL1A2" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL1A2" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL1A2" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="TMED10" target="ASPH">
+  <data key="d2">{'NCBI', 'BioGrid'}</data>
+</edge>
+<edge source="TMED10" target="HHIP"/>
+<edge source="FLT3" target="NPNT">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid'}</data>
+</edge>
+<edge source="HHIP" target="ASPH"/>
+<edge source="HHIP" target="HMGN1"/>
+<edge source="MFAP2" target="BGN">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MFAP2" target="FBN1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="MFAP2" target="COL4A3">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="MFAP2" target="EMILIN1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="COL12A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL12A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL12A1" target="COL4A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL12A1" target="COL4A2">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL6A3" target="BGN">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL6A3" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="ASPH" target="COL1A1">
+  <data key="d2">{'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A1" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A1" target="BGN">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="COL4A1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A1" target="COL4A2">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'Interactome3D', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="COL4A1" target="NID1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="BGN" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+<edge source="BGN" target="COL4A2">
+  <data key="d2">{'StringDB', 'NCBI', 'HIPPIE'}</data>
+</edge>
+<edge source="FBN1" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="FBN1" target="EMILIN1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="COL4A3" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A3" target="NID1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A2" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A2" target="MMP12">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="COL4A2" target="NID1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP12" target="COL1A1">
+  <data key="d2">{'StringDB', 'HumanNet'}</data>
+</edge>
+<edge source="MMP12" target="NID1">
+  <data key="d2">{'HumanNet', 'Reactome'}</data>
+</edge>
+<edge source="TAF5L" target="YEATS2">
+  <data key="d2">{'NCBI', 'StringDB', 'BioGrid', 'HIPPIE'}</data>
+</edge>
+<edge source="SHANK3" target="EFEMP1">
+  <data key="d2">{'NCBI', 'HIPPIE', 'BioGrid'}</data>
+</edge>
+<edge source="NID1" target="COL1A1">
+  <data key="d2">{'StringDB', 'NCBI', 'BioGrid', 'HIPPIE', 'HumanNet'}</data>
+</edge>
+</graph></graphml>
